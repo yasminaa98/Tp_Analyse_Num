@@ -11,4 +11,4 @@
  
  
  
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yasminaa98/Tp_Analyse_Num/main)
+ [![Binder](https://mybinder.org/icon.svg)](https://mybinder.org/v2/gh/yasminaa98/Tp_Analyse_Num/main)
