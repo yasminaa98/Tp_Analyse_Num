@@ -14,5 +14,5 @@
  [TP3]: https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/TP3/widget_final.ipynb
  
 
-<font color="red"> Press the little launcher over here to run the project ! </font>
+<p style='color:red'>Press the little launcher over here to run the project ! </p>
  [![Binder](https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/launch-binder.png)](https://mybinder.org/v2/gh/yasminaa98/Tp_Analyse_Num/main)
