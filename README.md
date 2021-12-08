@@ -14,5 +14,5 @@
  [TP3]: https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/TP3/widget_final.ipynb
  
  
- 
+ Press the little launcher over hier to run the work !
  [![Binder](https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/launch-binder.png)](https://mybinder.org/v2/gh/yasminaa98/Tp_Analyse_Num/main)
