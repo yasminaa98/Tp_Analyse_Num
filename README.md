@@ -1,4 +1,7 @@
 # Tp_Analyse_Num
+Press the little launcher over here to run the project !
+ [![Binder](https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/launch-binder.png)](https://mybinder.org/v2/gh/yasminaa98/Tp_Analyse_Num/main)
+
 - [Requirements](#requirements)
 - [TP1][TP1]
 - [TP2][TP2]
@@ -23,5 +26,3 @@
  [clb]:https://colab.research.google.com/notebooks/intro.ipynb
  
 
-Press the little launcher over here to run the project !
- [![Binder](https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/launch-binder.png)](https://mybinder.org/v2/gh/yasminaa98/Tp_Analyse_Num/main)
