@@ -2,8 +2,12 @@
 - [Introduction](#Introduction)
 - [Generalité](#Generalité)
 - [Les méthodes d'integration numérique](#methodes)
+- [Méthode des Rectangles](r)
 - [Méthode des trapézes](t)
+- [Méthode de simpson](s)
 - ## Introduction 
 - ## Generalité
 - ## Les méthodes d'integration numérique
+- ### Méthode des Rectangles
 - ### Méthode des trapézes
+- ### Méthode de simpson
