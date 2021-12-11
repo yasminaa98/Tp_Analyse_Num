@@ -2,8 +2,8 @@
 - [Introduction](#Introduction)
 - [Generalité](#Generalité)
 - [Les méthodes d'integration numérique](#methodes)
-- [p](p)
+- [Méthode des trapézes](t)
 - ## Introduction 
 - ## Generalité
 - ## Les méthodes d'integration numérique
-- * p
+- * Méthode des trapézes
