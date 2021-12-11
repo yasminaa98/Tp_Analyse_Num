@@ -1,7 +1,7 @@
 # Tp_Analyse_Num
 <html>
 <body>
-<p style="color:red;">Press the little launcher over here to run the project !</p>
+<p style="color:red">Press the little launcher over here to run the project !</p>
 </body>
 </html>
 
