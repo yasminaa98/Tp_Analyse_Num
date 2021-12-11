@@ -6,4 +6,4 @@
 - ## Introduction 
 - ## Generalité
 - ## Les méthodes d'integration numérique
-- * Méthode des trapézes
+- ### Méthode des trapézes
