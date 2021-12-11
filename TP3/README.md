@@ -2,7 +2,7 @@
 - [Introduction](#Introduction)
 - [Generalité](#Generalité)
 - [Les méthodes d'integration numérique](#methodes)
--   [Méthode des trapézes](t)
+- [Méthode des trapézes](t)
 - ## Introduction 
 - ## Generalité
 - ## Les méthodes d'integration numérique
