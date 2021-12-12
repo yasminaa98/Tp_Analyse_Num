@@ -4,6 +4,7 @@
 - [Les méthodes d'integration numérique](#methodes)
   - [Méthode des Rectangles à gauche](rg)
   - [Méthode des Rectangles à droite](rd)
+  - [Méthode du point milieu](pm)
   - [Méthode des trapézes](t)
   - [Méthode de simpson](s)
 - ## Introduction 
@@ -17,6 +18,11 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
   - Intégration approchée de la fonction sur chaque morceau 
   - Sommation des résultats numériques ainsi obtenus.
 - ### Méthode des Rectangles à gauche
+la méthode des rectangles à gauche : on approche par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :
 - ### Méthode des Rectangles à droite
+- ### Methode du point milieu
+la méthode du point milieu : on approche par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
 - ### Méthode des trapézes
+La méthode d'intégration approchée, dite des trapèzes, décrite ci-après, introduite par Newton & Cotes est plus précise que la méthode élémentaire, dite des rectangles, correspondant aux sommes de Cauchy-Riemann, consistant à remplacer la fonction initiale par une approximation en escalier. Graphiquement, sur l'intervalle [xi, xi+1], on remplace l'arc de courbe par le segment [MiNi+1], donc l'aire sous la courbe, par le « rectangle » xi Mi Ni+1 xi+1 (figure de gauche) :
 - ### Méthode de simpson
+La méthode de Simpson consiste à grouper trois points consécutifs de la courbe Mi, Mi+1 et Mi+2 et de remplacer l'arc de courbe passant par ces trois points par un arc de parabole. Notons que si les points Mi, Mi+1 et Mi+2 sont alignés, le calcul des paramètres de la parabole d'équation y = mx2 + px + q, passant par ces points conduira à m = 0. Par suite, quitte à parler de parabole dégénérée, ce cas n'est pas singulier.
