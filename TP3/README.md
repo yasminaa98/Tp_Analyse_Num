@@ -2,7 +2,7 @@
 - [Introduction](#Introduction)
 - [Generalité](#Generalité)
 - [Les méthodes d'integration numérique](#methodes)
-- -[Méthode des Rectangles à gauche](rg)
+- - [Méthode des Rectangles à gauche](rg)
 - [Méthode des Rectangles à droite](rd)
 - [Méthode des trapézes](t)
 - [Méthode de simpson](s)
