@@ -13,9 +13,9 @@
   La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher . Les moyens les plus simples sont :
 
 - ## Les méthodes d'integration numérique
-- +Décomposition du domaine en morceaux (un intervalle en sous-intervalles contigus)
-- +Intégration approchée de la fonction sur chaque morceau 
-- +Sommation des résultats numériques ainsi obtenus.
++Décomposition du domaine en morceaux (un intervalle en sous-intervalles contigus)
++Intégration approchée de la fonction sur chaque morceau 
++Sommation des résultats numériques ainsi obtenus.
 - ### Méthode des Rectangles à gauche
 - ### Méthode des Rectangles à droite
 - ### Méthode des trapézes
