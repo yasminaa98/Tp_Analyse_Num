@@ -1,6 +1,7 @@
 # Projet analyse numérique 2021
 - [Introduction](#Introduction)
 - [Generalité](#Generalité)
+- La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec     a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher .
 - [Les méthodes d'integration numérique](#methodes)
 - [Méthode des Rectangles](r)
 - [Méthode des trapézes](t)
