@@ -1,7 +1,7 @@
 # Projet analyse numérique 2021
 - [Introduction](#Introduction)
 - [Generalité](#Generalité)
-- [Les méthodes d'integration numérique](##Les méthodes d'integration numérique)
+- [Les méthodes d'integration numérique](##Lesméthodesd'integrationnumérique)
   - [Méthode des Rectangles à gauche](##Méthode des Rectangles à gauche)
   - [Méthode des Rectangles à droite](##Méthode des Rectangles à droite)
   - [Méthode du point milieu](##Méthode du point milieu)
