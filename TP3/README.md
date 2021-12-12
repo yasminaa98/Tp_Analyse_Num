@@ -2,10 +2,10 @@
 - [Introduction](#Introduction)
 - [Generalité](#Generalité)
 - [Les méthodes d'integration numérique](#methodes)
-- - [Méthode des Rectangles à gauche](rg)
-- [Méthode des Rectangles à droite](rd)
-- [Méthode des trapézes](t)
-- [Méthode de simpson](s)
+  - [Méthode des Rectangles à gauche](rg)
+  - [Méthode des Rectangles à droite](rd)
+  - [Méthode des trapézes](t)
+  - [Méthode de simpson](s)
 - ## Introduction 
 - La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec     a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher .
 - ## Generalité
