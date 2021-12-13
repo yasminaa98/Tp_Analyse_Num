@@ -2,7 +2,7 @@
 
 - [Introduction](#Introduction)
 - [Generalité](#Generalité)
-- [Les méthodes d'integration numérique](#M)
+- [Les méthodes d'integration numérique](#Methodes)
 - [Méthode des Rectangles à gauche](#RG)
 - [Méthode des Rectangles à droite](#RD)
 - [Méthode du point milieu](#PM)
