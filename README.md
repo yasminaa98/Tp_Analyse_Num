@@ -1,5 +1,5 @@
 # Tp_Analyse_Num
-- Press the little launcher over here to run the project ! 
+- Press the little launcher over here to run the work ! 
 [![Binder](https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/launch-binder.png)](https://mybinder.org/v2/gh/yasminaa98/Tp_Analyse_Num/main)
 
 - [Requirements](#requirements)
