@@ -14,7 +14,7 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
 ## Generalité
 - Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait pas calculer une primitive de f. Ainsi, si l'on désire obtenir la valeur de $$\\int_a^b f(t) \\,dt$$ \n , il faut parfois se contenter d'obtenir une valeur approchée à l'aide d'une méthode d'intégration numérique.
   La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher . Les moyens les plus simples sont :
-## M
+## Methodes
 - Décomposition du domaine en morceaux (un intervalle en sous-intervalles contigus)
 - Intégration approchée de la fonction sur chaque morceau 
 - Sommation des résultats numériques ainsi obtenus.
