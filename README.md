@@ -20,7 +20,7 @@
   
  [TP1]: https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/TP1/TP1_E.ipynb
  [TP2]: https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/TP2/TP2_E.ipynb
- [TP3]: https://github.com/yasminaa98/Tp_Analyse_Num/blob/main/TP3/widget_final.ipynb
+ [TP3]: https://github.com/yasminaa98/Tp_Analyse_Num/tree/main/TP3
  
  [ANACONDA]: https://www.anaconda.com/products/individual
  [Jup]: https://jupyter.org/
