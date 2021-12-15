@@ -7,6 +7,7 @@
   - [Méthode du point milieu](#Point_milieu)
   - [Méthode des trapézes](#Trapézes)
   - [Méthode de simpson](#Simpson)
+- [Démonstration](#Démonstration)
 ## Introduction 
 - L'intégration est un des problèmes les plus importants que l'on rencontre en analyse. En effet, on rencontre souvent des intégrales dont le calcul par des méthodes analytiques est trés compliqué ou meme impossible, car il n'existe pas d'expression analytique d'une primitive de la fonction à intégrer.
 Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur de l'integrale donnée. La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec     a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher .
@@ -18,7 +19,7 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
 - Intégration approchée de la fonction sur chaque morceau 
 - Sommation des résultats numériques ainsi obtenus.
 ### Rectangle_gauche
-                                                    ![Alt Text](formule_rect.GIF)
+![Alt Text](formule_rect.GIF)
 - la méthode des rectangles à gauche : on approche par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :
  
      ![Alt Text](figure_rect.GIF)
@@ -39,3 +40,9 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
 - La méthode de Simpson consiste à grouper trois points consécutifs de la courbe Mi, Mi+1 et Mi+2 et de remplacer l'arc de courbe passant par ces trois points par un arc de parabole. Notons que si les points Mi, Mi+1 et Mi+2 sont alignés, le calcul des paramètres de la parabole d'équation y = mx2 + px + q, passant par ces points conduira à m = 0. Par suite, quitte à parler de parabole dégénérée, ce cas n'est pas singulier:
 
      ![Alt Text](figure_simp.GIF)
+## Démonstration 
+
+  ![Alt Text](Demo.gif)
+     
+     
+ 
