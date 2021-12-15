@@ -19,6 +19,8 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
 - Sommation des résultats numériques ainsi obtenus.
 ### Rectangle_gauche
 - la méthode des rectangles à gauche : on approche par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :
+- ![image](figure_rec.GIF)
+
 ### Point_milieu
 - la méthode du point milieu : on approche par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
 ### Trapézes
