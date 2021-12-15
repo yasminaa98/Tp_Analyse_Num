@@ -42,7 +42,7 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
      ![Alt Text](figure_simp.GIF)
 ## Démonstration 
 
-  ![Alt Text](Demo.gif)
+  ![Alt Text](Demonstration.gif)
      
      
  
