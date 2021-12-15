@@ -12,6 +12,7 @@
 * [ANACONDA For windows][ANACONDA] 
 * [Jupyter][Jup]
 * [Googlecollabs][clb]
+* [ScreenToGIF][STG]
 
 
 
@@ -24,5 +25,6 @@
  [ANACONDA]: https://www.anaconda.com/products/individual
  [Jup]: https://jupyter.org/
  [clb]:https://colab.research.google.com/notebooks/intro.ipynb
+ [STG]:https://www.screentogif.com/
  
 
