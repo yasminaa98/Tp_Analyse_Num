@@ -18,7 +18,7 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
 - Intégration approchée de la fonction sur chaque morceau 
 - Sommation des résultats numériques ainsi obtenus.
 ### Rectangle_gauche
- ![Alt Text](formule_rect.GIF)
+                                                    ![Alt Text](formule_rect.GIF)
 - la méthode des rectangles à gauche : on approche par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :
  
      ![Alt Text](figure_rect.GIF)
