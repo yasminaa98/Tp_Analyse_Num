@@ -18,11 +18,16 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
 - Intégration approchée de la fonction sur chaque morceau 
 - Sommation des résultats numériques ainsi obtenus.
 ### Rectangle_gauche
+ ![Alt Text](formule_rect.GIF)
 - la méthode des rectangles à gauche : on approche par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :
- ![Alt Text](figure_rect.GIF)
+ 
+     ![Alt Text](figure_rect.GIF)
 
 ### Point_milieu
+![Alt Text](formule_pm.GIF)
 - la méthode du point milieu : on approche par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
+
+     ![Alt Text](figure_pm.GIF)
 ### Trapézes
 - La méthode d'intégration approchée, dite des trapèzes, décrite ci-après, introduite par Newton & Cotes est plus précise que la méthode élémentaire, dite des rectangles, correspondant aux sommes de Cauchy-Riemann, consistant à remplacer la fonction initiale par une approximation en escalier. Graphiquement, sur l'intervalle [xi, xi+1], on remplace l'arc de courbe par le segment [MiNi+1], donc l'aire sous la courbe, par le « rectangle » xi Mi Ni+1 xi+1 (figure de gauche) :
 ### Simpson
