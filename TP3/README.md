@@ -41,6 +41,7 @@ Dans ces cas, on peut appliquer des méthodes composites pour evaluer la valeur 
 
      ![Alt Text](figure_simp.GIF)
 ## Démonstration 
+- Plus que le nombre de subdivisions augmente, les valeurs sont plus proches des valeurs exactes.
 
   ![Alt Text](Demonstration.gif)
      
